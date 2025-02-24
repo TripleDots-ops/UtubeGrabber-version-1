@@ -26,6 +26,15 @@ Version 1 has the process of downloading youtube videos with the option of eithe
 I will contiune or at least come up with features like having a download directory because 
 when you download a youtube video it goes where the program is.
 
+What it has:
+Can download from any youtube video as long you have the url
+
+MP4: Downloads video
+
+MP3: Downloads audio and converts to MP3 format
+
+Both: Downloads both video and audio formats
+
 The run program bat file suppose to be like this run the program without having to open the python file.
 It also has the install_requirements bat which can install the necessary imports though you can either do the pip install yourself or
 use the requirements.txt to install everything yourself. 
