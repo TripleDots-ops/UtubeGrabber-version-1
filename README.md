@@ -27,6 +27,8 @@ I will contiune or at least come up with features like having a download directo
 when you download a youtube video it goes where the program is.
 
 What it has:
+A GUI that has a simple design.
+
 Can download from any youtube video as long you have the url
 
 MP4: Downloads video
@@ -34,6 +36,10 @@ MP4: Downloads video
 MP3: Downloads audio and converts to MP3 format
 
 Both: Downloads both video and audio formats
+
+Exit Button: To exit the program
+
+Progess download bar: It downloads pretty fast at least on what I did my tests for videos that were either short or 5 minutes.
 
 The run program bat file suppose to be like this run the program without having to open the python file.
 It also has the install_requirements bat which can install the necessary imports though you can either do the pip install yourself or
